@@ -7,3 +7,5 @@ class Opa
   end
   
 end
+
+valores = [1,2,3]
